@@ -1,1 +1,4 @@
-Placeholder for avatar.glb (reemplazar con el modelo real)
+<a-assets>
+  <a-asset-item id="avatarModel" src="https://cdn.glitch.global/8d5e173b-9c76-47ab-b7aa-f00cf2b8d430/avatar.glb?v=1714513130640"></a-asset-item>
+  <audio id="voz" src="voz.mp3"></audio>
+</a-assets>
